@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/akshitsharma-git/akshitsharma-git/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/akshitsharma-git/akshitsharma-git/refs/heads/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
