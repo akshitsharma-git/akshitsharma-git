@@ -71,7 +71,7 @@
   <a href="https://x.com/AkshitInPublic" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=414a4c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="work.akshitsharma@gmail.com" target="_blank">
+  <a href="mailto:work.akshitsharma@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
