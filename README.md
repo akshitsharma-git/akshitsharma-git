@@ -1,85 +1,68 @@
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akshitsharma-git.akshitsharma-git&left_text=Profile%20Views"  />
+<div align="center">
+
+## 👋 Hi, I’m **Akshit Sharma**
+
+**Computer Science Undergraduate (CSE ’27)**  
+Building **backend-heavy, scalable web systems** with clean APIs, performance awareness, and real deployments.
+
 </div>
 
-###
+---
 
-<h3 align="center">AKSHIT SHARMA<br><br>🎓 BE CSE Student || 💻 Aspiring Software Engineer || 🧠 Lifelong Learner</h3>
+### 🧠 What I Care About
+- Designing clean, scalable backend systems  
+- Building API-first applications  
+- Performance optimization & caching  
+- AI / LLM integrations  
+- Writing production-ready code  
 
-###
+---
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGR2eHNsMzRwenUwbDV1dWNyZmZwMHJodXFkZG4yaXY2bWdhcDIwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4jfJqiIxvU08/giphy.gif"  />
+### 🚀 Featured Projects
 
-###
+**🔹 SumX**  
+*AI-powered summarization for X (Twitter) posts*  
+→ Node.js · React · Redis · Groq LLM  
+→ Focus: fast inference, caching, clean UX  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-</div>
+**🔹 NoTYPE**  
+*Zero-UI AI API where the URL itself is the prompt*  
+→ Node.js · Express  
+→ Focus: minimal interfaces, API-first design  
 
-###
+**🔹 OMNEK**  
+*Scalable video content delivery platform*  
+→ React · Node.js · Cloudinary  
+→ Focus: media delivery, system separation  
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/akshitsharma-linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/AkshitInPublic" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=414a4c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="mailto:work.akshitsharma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+**🔹 DupeGram**  
+*Instagram-style frontend clone with authentication*  
+→ HTML · CSS · JavaScript  
+→ Focus: auth flow, UI accuracy, state handling  
 
-###
+---
 
-<br clear="both">
+### 🛠 Tech Stack
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Data / Caching:** MongoDB, Redis  
+**AI:** LLM APIs (Groq)  
+**Cloud & Tools:** Cloudinary, Render, Git, GitHub  
 
-<img src="https://raw.githubusercontent.com/akshitsharma-git/akshitsharma-git/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 📈 Currently Improving
+- Backend performance tuning  
+- System design fundamentals  
+- Writing clearer engineering docs  
+- Interview-level problem solving  
+
+---
+
+### 📫 Connect
+- GitHub: https://github.com/akshitsharma-git  
+- LinkedIn: https://linkedin.com/in/akshitsharma001  
+
+---
+
+> *I believe good engineering is about clarity, intent, and reliability — not just features.*
